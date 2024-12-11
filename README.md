@@ -1,1 +1,1 @@
-# NewsGuard
+# NewsGuard - Fake News Detection Web APP
